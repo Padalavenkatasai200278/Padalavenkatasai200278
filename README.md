@@ -12,6 +12,8 @@ AI and NLP: Developing applications with a focus on chatbot and conversational A
 
 
 💼 Skills & Collaboration Interests
+
+
 Data Analysis & Visualization: From data wrangling to advanced visualization
 Machine Learning & Deep Learning: Model development and optimization
 Chatbot Development: AI-driven conversational agents and NLP applications
@@ -19,7 +21,10 @@ Software Development: Crafting scalable Python-based applications
 
 
 📫 How to Reach Me
+
+
 I’d love to connect and discuss collaboration opportunities!
+
 LinkedIn:https://www.linkedin.com/in/venkata-sai-padala-520698213/
 
 😄 Pronouns
