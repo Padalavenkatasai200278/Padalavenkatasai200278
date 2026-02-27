@@ -12,57 +12,44 @@ Padala Venkata Sai
 Associate Software Engineer with 1.8 years of professional experience, including 8 months as a Data Science Intern and 1 year in banking application support at Bank of Baroda (DXC Technology). Strong hands-on experience in Python, SQL, Core Java, PL/SQL, Machine Learning, Deep Learning, Linux/Unix, and data visualization tools such as Tableau and Power BI. Proven ability to work on real-time production systems, perform data analysis, build predictive models, and deliver actionable business insights.
 
 💼 Professional Experience
-DXC Technology
+DXC Technology – Client: Bank of Baroda (via Pyramid Consulting, Inc– Vendor)⁠
 
-Client: Bank of Baroda
-Vendor: Pyramid Consulting, Inc
-Role: Associate Software Engineer
-📍 Hyderabad, India | Jun 2025 – Present
+APPLICATION  L1(Data Science & Analytics Focus)
+06/2025 – present
+ | 
+Hyderbad, India
+Associate Software Engineer Hyderabad, India | 06/​2025 – Present
 
-Providing Level 2 support for core banking applications to ensure uninterrupted operations.
+•Provided L2 support for core banking applications while analyzing production data to identify system patterns and anomalies.
+•Wrote and optimized complex SQL queries for data extraction, validation, and trend analysis.
+•Performed data analysis on incident logs to identify recurring issues and reduce resolution time.
+•Used Python for data validation, automation, and report generation.
+•Conducted root cause analysis using data-driven investigation techniques.
+•Monitored application performance metrics and generated analytical reports for stakeholders.
+•Worked in Linux/​Unix environments for backend data handling and troubleshooting.
+DXC Technology – Client: Bank of Baroda (via CGBI – Vendor)⁠
 
-Monitoring and troubleshooting applications in Linux/Unix environments.
+APPLICATION  L1(Data Science & Analytics Focus)
+12/2024 – 05/2025
+ | 
+Hyderbad, India
+Associate Software Engineer Hyderabad, India | 12/​2024 – 05/​2025
 
-Writing and optimizing PL/SQL queries for data validation and issue resolution.
+•Delivered L1 support while analyzing banking transaction data for validation and issue identification.
+•Used SQL extensively for querying, aggregating, and analyzing production datasets.
+•Automated repetitive system monitoring tasks using Python scripts.
+•Assisted in analyzing system logs and transaction patterns to detect inconsistencies.
+•Generated data-based reports to support business and operational teams.
+Analytics Space⁠
 
-Applying Core Java knowledge to analyze backend logic and application issues.
-
-Monitoring dashboards and alerts, performing impact analysis, and coordinating with L3, development, and infrastructure teams for incident resolution.
-
-DXC Technology
-
-Client: Bank of Baroda
-Vendor: CGBI
-Role: Associate Software Engineer
-📍 Hyderabad, India | Dec 2024 – May 2025
-
-Delivered Level 1 support for business-critical banking systems.
-
-Assisted in Linux-based server environments and handled basic troubleshooting tasks.
-
-Wrote and optimized PL/SQL queries to analyze and validate production data.
-
-Monitored real-time system alerts and responded promptly to incidents.
-
-Used Python scripts for routine system monitoring and validation.
-
-Analytics Space
-
-Role: Junior Data Scientist (Intern)
-Intern ID: AS/BNG/IN/2323
-📍 Bengaluru, India | Jun 2023 – Jan 2024
-
-Completed an 8-month Data Science internship specializing in Python, SQL, Excel, Tableau, Power BI, and Machine Learning.
-
-Worked on two live projects: predictive maintenance and used car price analysis.
-
-Implemented data preprocessing, model training, and visualization techniques, improving analysis efficiency by 20%.
-
-Developed a predictive maintenance model for AMS and Makino machines, reducing downtime by 15%.
-
-Conducted comprehensive used car price analysis, improving data accuracy by 25%.
-
-Awarded an Internship Certificate for exceptional performance.
+Juniour Data Scientist,Intern ID:AS/BNG/IN/2323
+06/2023 – 01/2024
+ | 
+Bengaluru, Karnataka, INDIA
+•Accomplished an 8-month Data Science internship, specializing in Python, SQL, Microsoft Excel,Tableau, Power BI, and Machine Learning, leading to two successful live projects on predictive maintenance  of down time and used car price analysis.
+•Implementing data preprocessing, model training, and visualization techniques, improving data analysis efficiency by 20%.
+•Spearheaded two live projects: - Developed a predictive maintenance model for AMS and Makino machines, which reduced downtime by 15%. - Conducted a comprehensive analysis of used car prices, increasing data accuracy by 25%.
+•Awarded an internship certificate for exceptional performance.
 
 🎓 Education
 
