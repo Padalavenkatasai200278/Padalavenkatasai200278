@@ -26,6 +26,7 @@ Automated monitoring and reporting workflows using Python.
 Performed root cause analysis using backend logs and Core Java validation.
 Delivered analytical reports supporting business decisions.
 Worked in Linux/Unix environments for troubleshooting and data handling.
+
 Banking Data Science Project — Transaction Anomaly Detection
 Built anomaly detection model for unusual banking transactions.
 Cleaned and processed datasets using Pandas and NumPy.
@@ -44,6 +45,7 @@ Used SQL for querying, aggregation, and validation of production datasets.
 Automated monitoring tasks using Python scripts.
 Analyzed application logs and transaction inconsistencies.
 Generated operational analytical reports.
+
 Analytics Space
 
 Junior Data Scientist (Intern)
@@ -56,6 +58,7 @@ Improved analysis efficiency by 20% through optimized workflows.
 Live Projects
 Predictive maintenance model reducing downtime by 15%.
 Used car price analysis improving data accuracy by 25%.
+
 🎓 Education
 
 Bachelor of Technology (B.Tech) – Electronics and Communication Engineering
@@ -73,17 +76,20 @@ Data Science Certification — ExcellenC Institution
 TCS iON NQT (Score: 1246/1800)
 NPTEL – Forest and Management
 NPTEL – Cognitive Psychology
+
 🛠 Technical Skills
 Programming: Python, SQL, Core Java
 Data Science: Machine Learning, Deep Learning, Data Analysis
 Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 Visualization: Power BI, Tableau, Matplotlib
 Tools: Excel, Linux/Unix
+
 🤝 Soft Skills
 Analytical Thinking
 Communication Skills
 Adaptability
 Problem Solving
+
 🚀 Projects
 Web-Based Chatbot Using Flask & Deep Learning
 
@@ -95,6 +101,7 @@ Built chatbot using ANN model.
 Trained model using categorized dataset.
 Developed training and execution scripts.
 Designed web interface using HTML & CSS.
+
 Predictive Analysis for Downtime Reduction (AMS & Makino Machines)
 
 📅 Jan 2024 – Feb 2024
@@ -102,6 +109,7 @@ Predictive Analysis for Downtime Reduction (AMS & Makino Machines)
 Used RandomForestClassifier for predictions.
 Performed preprocessing with Pandas & NumPy.
 Visualized insights using Matplotlib.
+
 Used Car Price Analysis
 
 📅 Nov 2023 – Jan 2024
