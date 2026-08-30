@@ -1,81 +1,89 @@
-Padala Venkata Sai
+# Hi, I'm Padala Venkatasai 👋
 
-📍 Hyderabad, Telangana, India
-📞 9390073624
-📧 venkatvenkat200278@gmail.com
+## Data-focused Professional
 
- LinkedIn: https://linkedin.com/in/venkata-sai-padala-520698213
+Data-focused professional with 2+ years of experience in banking technology environments, supporting customer, account, transaction and business-data requirements using SQL.
 
- GitHub: https://github.com/Padalavenkatasai200278
+Experienced in data retrieval, validation, investigation, operational dashboard monitoring and production application support in a Finacle environment.
 
-PROFILE
+Additional 8-month Data Science internship experience with Python, SQL, Pandas, NumPy, Power BI, Tableau and Machine Learning.
 
-Data-focused professional with 2+ years of experience in banking technology environments, supporting customer, account, transaction
-and business-data requirements using SQL. Experienced in data retrieval, validation, investigation, operational dashboard monitoring
-and production application support in a Finacle environment. Additional 8-month Data Science internship experience with Python,
-SQL, Pandas, NumPy, Power BI, Tableau and Machine Learning.
+## Technical Skills
 
-PROFESSIONAL EXPERIENCE
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- Power BI
+- Tableau
+- Linux / Unix
+- Data Analysis
+- Excel
+- Finacle
 
-DXC Technology – Client: Bank of Baroda (via Pyramid Consulting,Inc– Vendor) , Associate Software Engineer                   06/2025 – present | Hyderabad, INDIA
+## Professional Experience
 
-•Handle diverse business and data requirements involving customer, account, transaction and other banking-related information.
-•Write and execute SQL queries to retrieve, validate and investigate banking data based on business requirements.
-•Support production banking application data requirements and respond to requests from business and technical teams.
-•Monitor operational dashboards and review application information to identify issues requiring investigation or follow-up.
-•Support Finacle application activities, including menu customization and scripting as required.
-•Investigate data and application issues and coordinate with relevant teams for resolution.
+### Associate Software Engineer
+**DXC Technology – Client: Bank of Baroda**
 
-DXC Technology – Client: Bank of Baroda (via CGBI – Vendor) ,Associate Software Engineer                                     12/2024 – 05/2025 | Hyderabad, INDIA
+- Handle diverse business and data requirements involving customer, account, transaction and other banking-related information.
+- Write and execute SQL queries to retrieve, validate and investigate banking data based on business requirements.
+- Support production banking application data requirements and respond to requests from business and technical teams.
+- Monitor operational dashboards and review application information to identify issues requiring investigation or follow-up.
+- Support Finacle application activities, including menu customization and scripting as required.
+- Investigate data and application issues and coordinate with relevant teams for resolution.
 
-•Worked on the Bank of Baroda engagement in a Finacle environment, supporting customer, account, transaction and other
-business-data requirements.
-•Used SQL to query, retrieve and validate banking information based on operational and business requirements.
-•Reviewed application information and data to support issue investigation and resolution.
-•Monitored operational dashboards and supported day-to-day production activities.
-•Continued on the Bank of Baroda engagement after the CGB Solutions contract period ended, moving to Pyramid Consulting, Inc.in June 2025.
+### Associate Software Engineer
+**DXC Technology – Client: Bank of Baroda**
 
-Analytics Space , Junior Data Scientist,Intern ID:AS/BNG/IN/2323                                                    06/2023 – 01/2024 | Bengaluru, Karnataka, INDIA
+- Worked on the Bank of Baroda engagement in a Finacle environment, supporting customer, account, transaction and other business-data requirements.
+- Used SQL to query, retrieve and validate banking information based on operational and business requirements.
+- Reviewed application information and data to support issue investigation and resolution.
+- Monitored operational dashboards and supported day-to-day production activities.
 
-•Completed an 8-month Data Science internship using Python, SQL, Excel, Tableau, Power BI and Machine Learning.
-•Performed data preprocessing, exploratory data analysis, model training and data visualization.
-•Worked with industrial datasets and built predictive maintenance analysis using Machine Learning.
-•Performed used-car price analysis using data collection, preprocessing and visualization.
-Live Projects:
-•Developed predictive maintenance model reducing machine downtime by 15%.
-•Conducted used car price analysis improving data accuracy by 25%.
-•Web-Based Chatbot Using Flask & Deep Learning.Built chatbot using ANN model. Trained model using categorized dataset.Developed training and execution scripts. Designed web interface using HTML & CSS.
+### Junior Data Scientist Intern
+**Analytics Space**
 
-TECHNICAL SKILLS
+- Completed an 8-month Data Science internship using Python, SQL, Excel, Tableau, Power BI and Machine Learning.
+- Performed data preprocessing, exploratory data analysis, model training and data visualization.
+- Worked with industrial datasets and built predictive maintenance analysis using Machine Learning.
+- Performed used-car price analysis using data collection, preprocessing and visualization.
 
-Python SQL Machine Learning Deep Learning Power BI Tableau Linux / Unix Data Analysis Excel Finacle
+## Projects
 
-EDUCATION
+### Predictive Analysis for the Reduction of Downtime for AMS and Makino Machines
 
-Bachelor of Technology (B.Tech) in Electronics and Communication Engineering
+- Performed predictive analysis to reduce downtime using Machine Learning algorithms.
+- Used Random Forest for predictions.
+- Utilized Python and Scikit-learn for predictive modeling.
+- Conducted data preprocessing using NumPy and Pandas.
+- Employed Matplotlib and Seaborn for data visualization.
 
-Puducherry Technological University, Puducherry
+### Used Car Price Analysis
+
+- Implemented analysis of used car prices using Python within the Anaconda Jupyter Notebook environment.
+- Utilized Selenium and WebDriver for web scraping to gather data.
+- Conducted data preprocessing using NumPy and Pandas.
+- Employed Tableau Desktop for data visualization.
+
+### Web-Based Chatbot Using Flask and Deep Learning
+
+- Developed a web-based chatbot using Flask and Deep Learning.
+- Used NLTK, TensorFlow, Keras and Python.
+- Trained the chatbot using a categorized dataset.
+- Developed training and execution scripts.
+- Designed the web interface using HTML and CSS.
+- Utilized an ANN to classify user messages.
+
+## Education
+
+**Bachelor of Technology (B.Tech) in Electronics and Communication Engineering**
+
+Puducherry Technological University, Puducherry  
 2019 – 2023
 
-Intermediate (MPC)
+## Certifications
 
-Resonance Junior College, Khammam District,Telangana State
-2017 – 2019
-
-Secondary School Certificate (SSC)
-
-New Era High School, Khammam District, Telangana State
-2017
-
-COURSES    
-
-Data Science                                                                                                                                2023 | Hyderabad, INDIA
-Provider: Texas Tech University and ExcellenC Institution
-
-CERTIFICATES
-
-Data Science Certification (License) - Texas Tech University
-TCS iON NQT Certification
-Data Science Certification (License) - ExcellenC Institution
-
-
+- Data Science Certification – Texas Tech University
+- TCS iON NQT Certification
+- Data Science Certification – ExcellenC Institution
