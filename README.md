@@ -4,116 +4,66 @@ Padala Venkata Sai
 📞 9390073624
 📧 venkatvenkat200278@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/venkata-sai-padala-520698213
+ LinkedIn: https://linkedin.com/in/venkata-sai-padala-520698213
 
-🔗 GitHub: https://github.com/Padalavenkatasai200278
+ GitHub: https://github.com/Padalavenkatasai200278
 
-👨‍💻 Profile
+PROFILE
+Data-focused professional with 2+ years of experience in banking technology environments, supporting customer, account, transaction
+and business-data requirements using SQL. Experienced in data retrieval, validation, investigation, operational dashboard monitoring
+and production application support in a Finacle environment. Additional 8-month Data Science internship experience with Python,
+SQL, Pandas, NumPy, Power BI, Tableau and Machine Learning.
 
-Data Science & Data Analytics professional with 2+ years of experience in banking analytics and data-driven application environments. Skilled in Python, SQL, Core Java, Machine Learning, Deep Learning, and Data Analysis with hands-on experience in data preprocessing, exploratory data analysis, automation, anomaly detection, and analytical reporting.
+PROFESSIONAL EXPERIENCE
+DXC Technology – Client: Bank of Baroda (via Pyramid Consulting,Inc– Vendor) , Associate Software Engineer                   06/2025 – present | Hyderabad, INDIA
+•Handle diverse business and data requirements involving customer, account, transaction and other banking-related information.
+•Write and execute SQL queries to retrieve, validate and investigate banking data based on business requirements.
+•Support production banking application data requirements and respond to requests from business and technical teams.
+•Monitor operational dashboards and review application information to identify issues requiring investigation or follow-up.
+•Support Finacle application activities, including menu customization and scripting as required.
+•Investigate data and application issues and coordinate with relevant teams for resolution.
 
-Experienced in analyzing real-time production and banking datasets to identify patterns, improve operational efficiency, and support data-driven decision making using visualization and predictive analytics.
+DXC Technology – Client: Bank of Baroda (via CGBI – Vendor) ,Associate Software Engineer                                     12/2024 – 05/2025 | Hyderabad, INDIA
+•Worked on the Bank of Baroda engagement in a Finacle environment, supporting customer, account, transaction and other
+business-data requirements.
+•Used SQL to query, retrieve and validate banking information based on operational and business requirements.
+•Reviewed application information and data to support issue investigation and resolution.
+•Monitored operational dashboards and supported day-to-day production activities.
+•Continued on the Bank of Baroda engagement after the CGB Solutions contract period ended, moving to Pyramid Consulting, Inc.in June 2025.
 
-💼 Professional Experience
-DXC Technology — Client: Bank of Baroda (via Pyramid Consulting, Inc – Vendor)
+Analytics Space , Junior Data Scientist,Intern ID:AS/BNG/IN/2323                                                    06/2023 – 01/2024 | Bengaluru, Karnataka, INDIA
+•Completed an 8-month Data Science internship using Python, SQL, Excel, Tableau, Power BI and Machine Learning.
+•Performed data preprocessing, exploratory data analysis, model training and data visualization.
+•Worked with industrial datasets and built predictive maintenance analysis using Machine Learning.
+•Performed used-car price analysis using data collection, preprocessing and visualization.
+Live Projects:
+•Developed predictive maintenance model reducing machine downtime by 15%.
+•Conducted used car price analysis improving data accuracy by 25%.
+•Web-Based Chatbot Using Flask & Deep Learning.Built chatbot using ANN model. Trained model using categorized dataset.Developed training and execution scripts. Designed web interface using HTML & CSS.
 
-Associate Software Engineer (Data Science & Analytics Focus)
-📅 Jun 2025 – Present | Hyderabad, India
+TECHNICAL SKILLS
+Python SQL Machine Learning Deep Learning Power BI Tableau Linux / Unix Data Analysis Excel Finacle
 
-Analyzed banking production and transaction datasets to identify trends and anomalies.
-Developed optimized SQL queries for data extraction and validation.
-Automated monitoring and reporting workflows using Python.
-Performed root cause analysis using backend logs and Core Java validation.
-Delivered analytical reports supporting business decisions.
-Worked in Linux/Unix environments for troubleshooting and data handling.
-
-Banking Data Science Project — Transaction Anomaly Detection
-Built anomaly detection model for unusual banking transactions.
-Cleaned and processed datasets using Pandas and NumPy.
-Implemented Isolation Forest algorithm.
-Visualized monitoring insights using Matplotlib.
-
-Tools: Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib
-
-DXC Technology — Client: Bank of Baroda (via CGBI – Vendor)
-
-Associate Software Engineer (Data Science & Analytics Focus)
-📅 Dec 2024 – May 2025 | Hyderabad, India
-
-Provided L1 application support for banking systems.
-Used SQL for querying, aggregation, and validation of production datasets.
-Automated monitoring tasks using Python scripts.
-Analyzed application logs and transaction inconsistencies.
-Generated operational analytical reports.
-
-Analytics Space
-
-Junior Data Scientist (Intern)
-📅 Jun 2023 – Jan 2024 | Bengaluru, India
-
-Completed 8-month Data Science internship.
-Performed preprocessing, model training, and visualization.
-Built predictive models on real-time industrial datasets.
-Improved analysis efficiency by 20% through optimized workflows.
-Live Projects
-Predictive maintenance model reducing downtime by 15%.
-Used car price analysis improving data accuracy by 25%.
-
-🎓 Education
-
-Bachelor of Technology (B.Tech) – Electronics and Communication Engineering
-Puducherry Technological University | 2019 – 2023
+EDUCATION
+Bachelor of Technology (B.Tech) in Electronics and Communication Engineering
+Puducherry Technological University, Puducherry
+2019 – 2023
 
 Intermediate (MPC)
-Resonance Junior College | 2017 – 2019
+Resonance Junior College, Khammam District,Telangana State
+2017 – 2019
 
-SSC
-New Era High School | 2017
+Secondary School Certificate (SSC)
+New Era High School, Khammam District, Telangana State
+2017
 
-📜 Certifications
-Data Science Certification — Texas Tech University
-Data Science Certification — ExcellenC Institution
-TCS iON NQT (Score: 1246/1800)
-NPTEL – Forest and Management
-NPTEL – Cognitive Psychology
+COURSES    
+Data Science                                                                                                                                2023 | Hyderabad, INDIA
+Provider: Texas Tech University and ExcellenC Institution
 
-🛠 Technical Skills
-Programming: Python, SQL, Core Java
-Data Science: Machine Learning, Deep Learning, Data Analysis
-Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
-Visualization: Power BI, Tableau, Matplotlib
-Tools: Excel, Linux/Unix
+CERTIFICATES
+Data Science Certification (License) - Texas Tech University
+TCS iON NQT Certification
+Data Science Certification (License) - ExcellenC Institution
 
-🤝 Soft Skills
-Analytical Thinking
-Communication Skills
-Adaptability
-Problem Solving
 
-🚀 Projects
-Web-Based Chatbot Using Flask & Deep Learning
-
-📅 Jun 2024 – Jul 2024
-
-Technologies: Flask, NLP (NLTK), TensorFlow, Keras, Python, HTML, CSS
-
-Built chatbot using ANN model.
-Trained model using categorized dataset.
-Developed training and execution scripts.
-Designed web interface using HTML & CSS.
-
-Predictive Analysis for Downtime Reduction (AMS & Makino Machines)
-
-📅 Jan 2024 – Feb 2024
-
-Used RandomForestClassifier for predictions.
-Performed preprocessing with Pandas & NumPy.
-Visualized insights using Matplotlib.
-
-Used Car Price Analysis
-
-📅 Nov 2023 – Jan 2024
-
-Collected data using Selenium & WebDriver.
-Performed preprocessing using Python libraries.
-Created dashboards using Tableau.
