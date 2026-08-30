@@ -1,7 +1,5 @@
 # Hi, I'm Padala Venkatasai 👋
 
-## Data-focused Professional
-
 Data-focused professional with 2+ years of experience in banking technology environments, supporting customer, account, transaction and business-data requirements using SQL.
 
 Experienced in data retrieval, validation, investigation, operational dashboard monitoring and production application support in a Finacle environment.
